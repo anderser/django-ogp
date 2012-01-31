@@ -8,6 +8,6 @@ setup(
     author_email= '',
     long_description=open('README.md').read(),
     description = 'Integrate OpenGraphProtocol meta tags in your Django project',
-    packages = ['django-ogp']
+    packages = ['django_ogp']
 )
 
